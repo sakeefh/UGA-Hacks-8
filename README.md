@@ -1,6 +1,11 @@
 # DYP 🌍 - Do Your Part 
 
-DYP is a React Native app developed to address the shortage of volunteering opportunities for students. Our goal is to provide a seamless platform connecting enthusiastic volunteers with organizations, making volunteering more accessible and impactful.
+DYP is a React Native app developed to address the shortage of volunteering opportunities for students. Our goal is to provide a seamless platform connecting enthusiastic volunteers with organizations, making volunteering more accessible and impactful. 
+
+## Technologies Used:
+
+- **Framework:** React Native
+- **Languages:** Python, JavaScript XML, C++
 
 ## Key Features
 
@@ -11,11 +16,8 @@ DYP is a React Native app developed to address the shortage of volunteering oppo
 - **Volunteers:**
   - Discover and sign up for local volunteering opportunities.
   - Easily track and manage volunteer hours.
-
-## Tech Stack
-
-- **Framework:** React Native
-- **Languages:** Python and JavaScript XML
+ 
+    
 
 ## Challenges Overcome
 
