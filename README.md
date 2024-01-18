@@ -4,8 +4,8 @@ DYP is a React Native app developed to address the shortage of volunteering oppo
 
 ## Technologies Used:
 
-- **Framework:** React Native
-- **Languages:** Python, JavaScript XML, C++
+- **Framework:** `React Native`
+- **Languages:** `JavaScript XML` `Java` `C++` `Python`
 
 ## Key Features
 
