@@ -8,7 +8,10 @@ DYP is a React Native app developed to address the shortage of volunteering oppo
 - **Languages:** `JavaScript XML` `Java` `C++` `Python`
 
 ## Login Screen:
-<img width="397" alt="dyp" src="https://github.com/sakeefh/UGA-Hacks-8/assets/91638600/4e4db31e-b61e-4f7d-b45d-af1301530feb">
+<img width="163" alt="dyp" src="https://github.com/sakeefh/UGA-Hacks-8/assets/91638600/4428e4e6-bbfb-4efe-bc74-dbc34ef8dcb7">
+
+## Account Creation:
+<img width="163" alt="createaccount" src="https://github.com/sakeefh/UGA-Hacks-8/assets/91638600/cafefd9a-ee50-4c66-a4df-e0c3f1767035">
 
 ## Key Features
 
