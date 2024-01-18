@@ -1,4 +1,4 @@
-# DYP - Do Your Part
+# DYP - Do Your Part 🤝
 
 DYP is a React Native app developed to address the shortage of volunteering opportunities for students. Our goal is to provide a seamless platform connecting enthusiastic volunteers with organizations, making volunteering more accessible and impactful.
 
