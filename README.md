@@ -17,14 +17,9 @@ Login Screen             |  Account Creation | Home Screen
 - Volunteers are able to discover and sign up for local volunteering opportunities and they can track their volunteer hours in the app.
 - Users have a custom volunteer feed set to showcase opportunities that they set their preferences to.
  
-## Challenges Overcome
--
-
-- **Database Population:**
-  - Overcame hurdles in populating the database efficiently.
-  
-- **React Native Syntax:**
-  - Tackled syntax challenges while working with React Native.
+## Challenges
+- We were not able to populate our database properly. To overcome this, we implemented a systematic approach to data entry and retrieval. By refining our database schema and optimizing queries, we were able to enhance the efficiency of data population.
+- We encountered syntax challenges with React Native. We utilized React Native documentation and Stack Overflow to gain insights into best practices.
 
 ## Learnings
 
