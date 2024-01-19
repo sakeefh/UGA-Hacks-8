@@ -21,18 +21,11 @@ Login Screen             |  Account Creation | Home Screen
 - We were not able to populate our database properly. To overcome this, we implemented a systematic approach to data entry and retrieval. By refining our database schema and optimizing queries, we were able to enhance the efficiency of data population.
 - We encountered syntax challenges with React Native. We utilized React Native documentation and Stack Overflow to gain insights into best practices.
 
-## Learnings
-
-- **React Native Mastery:**
-  - Mastered both the basics and nuances of React Native.
-  
-- **Effective Team Dynamics:**
-  - Practiced delegation and mutual support within the team.
-
 ## What's Next
-
 - **Database Integration:**
   - Incorporate database functionalities for a more robust app.
-  
 - **Separate Logins for Organizations:**
   - Allow organizations to log in separately for better management.
+- **Advanced Search:**
+  - Implementing advanced search and filtering options for volunteering opportunities.
+    
