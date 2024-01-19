@@ -18,6 +18,7 @@ Login Screen             |  Account Creation | Home Screen
 - Users have a custom volunteer feed set to showcase opportunities that they set their preferences to.
  
 ## Challenges Overcome
+-
 
 - **Database Population:**
   - Overcame hurdles in populating the database efficiently.
