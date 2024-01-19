@@ -7,6 +7,10 @@ DYP is a React Native app developed to address the shortage of volunteering oppo
 - **Framework:** `React Native`
 - **Languages:** `JavaScript XML` `Java` `C++` `Python`
 
+
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](https://...Dark.png)  |  ![](https://...Ocean.png)
 ## Login Screen:
 <img width="163" alt="dyp" src="https://github.com/sakeefh/UGA-Hacks-8/assets/91638600/4428e4e6-bbfb-4efe-bc74-dbc34ef8dcb7">
 
